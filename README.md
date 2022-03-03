@@ -44,13 +44,3 @@ Los apartados que deben incluir son:
 ```
 
 
-## 4. Resolución de problemas
-
-
-
-## 5. Enlaces de interés
-
-* [Control de Versiones](https://en.wikipedia.org/wiki/Version_control)
-* [Pro Git](https://git-scm.com/book/en/v2)
-* [Tutorial de Markdown](https://www.markdowntutorial.com/)
-
