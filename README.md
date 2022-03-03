@@ -19,7 +19,7 @@
 
 ## 2. GRÁFICO OBLIGATORIO:
 
-> La ejecución de este proyecto requiere utilizar un JDK 9 o superior.
+> Esta página debe contener al menos un gráfico relacionados con los dispositivos móviles.
 
 ![image](http://cdn.statcdn.com/Infographic/images/normal/9576.jpeg)
 
