@@ -43,6 +43,6 @@ Los apartados que deben incluir son:
 - Capturas de pantalla donde se vea la validación de cada una de las páginas (tiene que parecer la URL de la página).
 ```
 
-< Copyright by Villarrealjavier
+> Copyright by Villarrealjavier
 
 
