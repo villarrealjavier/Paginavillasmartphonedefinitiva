@@ -7,13 +7,13 @@
 
 * Una tabla
 * Estructura con lateral
-* Listas: 
-  	* Ordenadas
-  	* Desordenadas
 * Debe incluir imágenes
 * Incluir un video
 * Formulario PhP
-* Página de contacto
+-------------------------------------
+## Tipos de listas que debe contener:
+1. Ordenadas
+2. Desordenadas
 
 
 
