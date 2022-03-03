@@ -36,12 +36,12 @@ Los apartados que deben incluir son:
 
 
 ### Documentación a Entregar:
-...
+```
 Estructura de ficheros que forman el sitio web comprimido.
 La URL de la página donde tienes alojada la página, teniendo en cuenta que debe estar guardada en un directorio llamado proyecto.
 Breve documento donde se describirá la página y se indicarán el origen de las plantillas descargadas y los códigos extra que hayamos incluido en nuestra web (menús,javascript,…). En este proyecto también se debe explicar el proceso que hemos seguido para subir la página al hosting gratuito.
 Capturas de pantalla donde se vea la validación de cada una de las páginas (tiene que parecer la URL de la página).
-...
+```
 
 
 ## 4. Resolución de problemas
