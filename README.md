@@ -1,9 +1,8 @@
 # *VILLA-SMARTPHONE*
 
 ## REQUISITOS DEL PROYECTO:
-> Debemos crear una página web la cual esté estructurada mediante Boostrap, es decir, tenemos que hacer uso de su **CSS** mediante la obtención de plantillas.
-
-> Los apartados que deben incluir son:
+Debemos crear una página web la cual esté estructurada mediante Boostrap, es decir, tenemos que hacer uso de su **CSS** mediante la obtención de plantillas.
+Los apartados que deben incluir son:
 
 * Una tabla
 * Estructura con lateral
