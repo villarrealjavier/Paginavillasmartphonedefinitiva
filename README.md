@@ -1,47 +1,39 @@
-# Proyecto base para el módulo Entornos de Desarrollo 2021/22
+# *VILLA-SMARTPHONE*
 
-## 1. ¿Para qué es este proyecto?
-> En este documento describimos las principales características que podemos incluir en un fichero **README.md**, junto a las etiquetas utilizadas para estructurar su contenido.
+## REQUISITOS DEL PROYECTO:
+> Debemos crear una página web la cual esté estructurada mediante Boostrap, es decir, tenemos que hacer uso de su **CSS** mediante la obtención de plantillas.
 
-> Los archivos de documentación de proyectos suelen incluir:
+> Los apartados que deben incluir son:
 
-* Nombre del proyecto
-* Objetivo
-* Requisitos de instalación: 
-  	* librerías utilizadas
-  	* software soportado
-  	* sistemas de virtualización
-* Guía paso a paso para la instalación
-* Resolución de problemas habituales
-* Referencias/Enlaces de interés
-* Copyright
-
+* Una tabla
+* Estructura con lateral
+* Listas: 
+  	* Ordenadas
+  	* Desordenadas
+* Debe incluir imágenes
+* Incluir un video
+* Formulario PhP
+* Página de contacto
 
 
-## 2.  Requisitos de instalación
+
+## 2. GRÁFICO OBLIGATORIO:
 
 > La ejecución de este proyecto requiere utilizar un JDK 9 o superior.
 
-![image](https://user-images.githubusercontent.com/73032467/156217644-f0b89096-9739-466d-8a84-0f063ab9d5e8.png)
+![image](http://cdn.statcdn.com/Infographic/images/normal/9576.jpeg)
 
-   Tomado de [**_Lenguajes de programación más comunes_**](https://www.tiobe.com/tiobe-index/)
+   Tomado de [**Uso diario del dispositivo móvil**](https://es.statista.com/grafico/9576/la-adiccion-al-movil-crece-en-todo-el-mundo/)
    
 
 
-## 3. Instalación
+## 3. SUBIDA A REPOSITORIO
 
-### 3.1. Step 1
-
-Descripción del paso 1 de la instalación
-
-### 3.2. Step 2 
-
-Descripción del paso 2 de la instalación
+1. Busqueda de página de Hosting Gratuita
+2. Creación de cuenta para la subida al hosting
+3. Subida de todos los documentos a la página de hosting
 
 
-### 3.3. Step 3
-
-Descripción del paso 3 de la instalación
 
 
 ### 3.n. Step ...n
